@@ -316,9 +316,3 @@ pyplot.show()
 # While Starwars fans liked the episode 4, 5 and 6, Others liked episode 1, 5 and 6.
 # 
 # it's very clear that Starwars fans viewd the movies more than others. But the most viewed movies are similar betweer Starwar fans and Others. Both of them viewd episode 1, 5 and 6 the most!
-
-# In[ ]:
-
-
-
-
